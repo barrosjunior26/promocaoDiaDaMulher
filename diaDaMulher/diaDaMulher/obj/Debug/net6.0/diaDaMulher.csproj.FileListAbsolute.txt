@@ -1,0 +1,15 @@
+C:\Users\barro\workspace\promocao\diaDaMulher\diaDaMulher\bin\Debug\net6.0\diaDaMulher.exe
+C:\Users\barro\workspace\promocao\diaDaMulher\diaDaMulher\bin\Debug\net6.0\diaDaMulher.deps.json
+C:\Users\barro\workspace\promocao\diaDaMulher\diaDaMulher\bin\Debug\net6.0\diaDaMulher.runtimeconfig.json
+C:\Users\barro\workspace\promocao\diaDaMulher\diaDaMulher\bin\Debug\net6.0\diaDaMulher.dll
+C:\Users\barro\workspace\promocao\diaDaMulher\diaDaMulher\bin\Debug\net6.0\diaDaMulher.pdb
+C:\Users\barro\workspace\promocao\diaDaMulher\diaDaMulher\obj\Debug\net6.0\diaDaMulher.csproj.AssemblyReference.cache
+C:\Users\barro\workspace\promocao\diaDaMulher\diaDaMulher\obj\Debug\net6.0\diaDaMulher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barro\workspace\promocao\diaDaMulher\diaDaMulher\obj\Debug\net6.0\diaDaMulher.AssemblyInfoInputs.cache
+C:\Users\barro\workspace\promocao\diaDaMulher\diaDaMulher\obj\Debug\net6.0\diaDaMulher.AssemblyInfo.cs
+C:\Users\barro\workspace\promocao\diaDaMulher\diaDaMulher\obj\Debug\net6.0\diaDaMulher.csproj.CoreCompileInputs.cache
+C:\Users\barro\workspace\promocao\diaDaMulher\diaDaMulher\obj\Debug\net6.0\diaDaMulher.dll
+C:\Users\barro\workspace\promocao\diaDaMulher\diaDaMulher\obj\Debug\net6.0\refint\diaDaMulher.dll
+C:\Users\barro\workspace\promocao\diaDaMulher\diaDaMulher\obj\Debug\net6.0\diaDaMulher.pdb
+C:\Users\barro\workspace\promocao\diaDaMulher\diaDaMulher\obj\Debug\net6.0\diaDaMulher.genruntimeconfig.cache
+C:\Users\barro\workspace\promocao\diaDaMulher\diaDaMulher\obj\Debug\net6.0\ref\diaDaMulher.dll
